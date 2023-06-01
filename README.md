@@ -11,7 +11,7 @@ Story mode of the Dashboard:
 Prototype before implementation
 ![IMG_20230425_170331](https://github.com/amitkedia007/Walmart-Sales-Tableau-Dashboard/assets/83700281/5a47b1f5-632d-4394-83f8-56f816f11647)
 
-The charts used in the dashboards: 
+ ## The charts used in the dashboards: 
 
 ![Product Category and Sub-Category](https://github.com/amitkedia007/Walmart-Sales-Tableau-Dashboard/assets/83700281/aea05670-02b3-492c-b870-a24f3267db6b)
 
