@@ -1,11 +1,11 @@
 # Walmart Sales Tableau Dashboard
 
-The detailed analysis of the Walmart sales through the Tableau Dashboard is in the Walmart-sales-report which id in the repo only. 
+The detailed analysis of the Walmart sales through the Tableau Dashboard is in the Walmart-sales-report which is in the repo only. 
 
-Final Dashboard Looks like:
+## Final Dashboard Looks like:
 ![Final Dashboard](https://github.com/amitkedia007/Walmart-Sales-Tableau-Dashboard/assets/83700281/f7db3788-8d3c-43f0-9296-1896730455aa)
 
-Story mode of the Dashboard:
+## Story mode of the Dashboard:
 ![Final Story](https://github.com/amitkedia007/Walmart-Sales-Tableau-Dashboard/assets/83700281/c5733264-0af9-4e04-a22e-845d054e968b)
 
 Prototype before implementation
